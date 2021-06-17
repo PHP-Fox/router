@@ -25,8 +25,7 @@
     "prefer-stable": true,
     "require": {
         "php": "^8.0",
-        "league/route": "^5.0",
-        "symfony/http-foundation": "^5.3"
+        "league/route": "^5.0"
     },
     "require-dev": {
         "pestphp/pest": "^1.4",
